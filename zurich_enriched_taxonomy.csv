@@ -1,9 +1,9 @@
 name,rating,minimum_clean,description_clean,primary_cuisine_group
-mit&ohne kebab - HB,4.0,15.0,"kebab, lokale geheimtipps",middle_eastern
+mit&ohne kebab - HB,4.0,15.0,kebab,middle_eastern
 Black Tap Craft Burgers & Beer Zurich,4.3,18.0,"amerikanisch, burger",american
-Bierhalle Wolf,4.1,18.0,"snacks, getränke snacks",unknown_other
+Bierhalle Wolf,4.1,18.0,"snacks, getränke snacks",other
 MrBeast Burger© Zürich,3.3,30.0,"snacks, amerikanisch",american
-Starbucks Limmatstrasse,3.8,0.0,"frühstück, kaffee",unknown_other
+Starbucks Limmatstrasse,3.8,0.0,"frühstück, kaffee",other
 McDonald's® Zürich Löwenstrasse,4.1,18.0,"amerikanisch, burger",american
 Holy Cow! Gourmet Burger Co. ZÜRICH ZÄHRINGERSTRASSE,4.7,18.0,"snacks, burger",american
 Sora,3.7,18.0,"sushi, japanisch",asian
@@ -11,12 +11,12 @@ Janni Pizzakurier Zürich,4.9,20.0,"italienische pizza, pasta",european
 KAIMUG,4.0,18.0,"asiatisch, vegetarisch",asian
 SUBWAY Zürich HB,4.1,18.0,"snacks, sandwiches",american
 Nelson's Kitchen,4.4,18.0,"amerikanisch, burger",american
-Action Burger,4.3,18.0,"burger, lokale geheimtipps",american
+Action Burger,4.3,18.0,burger,american
 CORSA,5.0,18.0,"frühstück, pasta",european
 China Restaurant Chopstick,4.0,18.0,"chinesisch, vegetarisch",asian
 Suan Long,4.1,18.0,"thailändisch, asiatisch",asian
 BURGER KING ® Zürich Gleis 18,3.9,18.0,"amerikanisch, burger",american
-San Gennaro - Löwenstrasse,4.0,18.0,"italienische pizza, lokale geheimtipps",european
+San Gennaro - Löwenstrasse,4.0,18.0,italienische pizza,european
 Konshi - Asia Kitchen & Sushi,4.0,18.0,"sushi, thailändisch",asian
 SAM'S Pizza Land Zürich,4.1,18.0,"italienische pizza, amerikanische pizza",european
 Saravanaa Bhavan Zurich,4.4,18.0,"indisch, vegan",asian
@@ -25,7 +25,7 @@ Restaurant 1001,4.1,18.0,kebab,middle_eastern
 ZFC Zürich,3.9,40.0,"hühnchen, burger",american
 3 Men's Kebab,4.4,18.0,"türkisch, kebab",middle_eastern
 Da Raffaele,4.1,18.0,"italienisch, italienische pizza",european
-Haru Korean,4.5,18.0,"asiatisch, lokale geheimtipps",asian
+Haru Korean,4.5,18.0,asiatisch,asian
 Dunkin' Donuts HB,3.9,18.0,"frühstück, amerikanisch",american
 Sesam Falafel,3.9,18.0,"türkisch, kebab",middle_eastern
 Só Tea,4.4,20.0,"asiatisch, nachspeisen",asian
@@ -43,19 +43,19 @@ McDonald's® Zürich Badenerstrasse,3.9,20.0,"amerikanisch, burger",american
 Cima Asia Take Away,4.3,20.0,"indisch, asiatisch",asian
 Pizzeria Molino Select Limmatquai,3.6,20.0,"italienisch, italienische pizza",european
 SPAR Express,3.8,0.0,"frühstück, lebensmittel",grocery_retail
-Neni,4.4,20.0,"arabisch, lokale geheimtipps",middle_eastern
+Neni,4.4,20.0,arabisch,middle_eastern
 Cucina Niederdorf,3.7,20.0,"italienisch, pasta",european
 Burgermeister Oberdorf,4.3,20.0,"burger, amerikanisch",american
 Thali House,4.9,60.0,"indisch, fisch",asian
-ONA POKÉ Bleicherweg,3.8,20.0,"vegetarisch, meeresfrüchte",unknown_other
-Mighty Bites,3.7,18.0,"getränke snacks, smoothies",unknown_other
+ONA POKÉ Bleicherweg,3.8,20.0,"vegetarisch, meeresfrüchte",other
+Mighty Bites,3.7,18.0,"getränke snacks, smoothies",other
 Dont Worry Eat Curry,4.7,20.0,"indisch, vegetarisch",asian
-Khujug Bubble Tea,4.3,20.0,"kaffee, bubble tea",unknown_other
-HUNCHO,4.3,20.0,"burger, lokale geheimtipps",american
+Khujug Bubble Tea,4.3,20.0,"kaffee, bubble tea",other
+HUNCHO,4.3,20.0,burger,american
 Restaurant Vulkan,4.6,18.0,"thailändisch, indisch",asian
 Da Pepino Express,4.7,30.0,"italienische pizza, pasta",european
 Kana (fried chicken),4.8,20.0,"hühnchen, burger",american
-Zekisworld (Limmatplatz),3.9,20.0,"kebab, lokale geheimtipps",middle_eastern
+Zekisworld (Limmatplatz),3.9,20.0,kebab,middle_eastern
 Miki Burgers,4.0,30.0,"italienische pizza, burger",american
 Habesha Restaurant,4.5,20.0,afrikanisch,african
 Bilo Bistro,4.4,20.0,"italienische pizza, kebab",middle_eastern
@@ -63,7 +63,7 @@ Maadan Bakery,4.7,20.0,"italienisch, italienische pizza",european
 Phuket,4.4,20.0,"thailändisch, asiatisch",asian
 Cô Ba Canteen,4.7,20.0,"asiatisch, asiatisch",asian
 Pizza Pizza Kurier,4.4,30.0,"italienisch, italienische pizza",european
-Vegitat Cigköfte,4.6,20.0,"vegan, vegetarisch",unknown_other
+Vegitat Cigköfte,4.6,20.0,"vegan, vegetarisch",other
 Kiosk Kalkbreite & Takeaway,3.9,20.0,"italienische pizza, kebab",middle_eastern
 Thali Indian Restaurant,4.8,60.0,"indisch, hühnchen",asian
 THE SMASH,4.2,20.0,"amerikanisch, burger",american
@@ -78,8 +78,8 @@ Indian Restaurant Kormasutra,4.9,60.0,"indisch, vegetarisch",asian
 Fulin Asia Kitchen,4.7,25.0,"chinesisch, thailändisch",asian
 Burgermeister Limmatplatz,3.8,20.0,"amerikanisch, burger",american
 Pizzakurier Lochergut,4.7,30.0,"italienische pizza, döner",middle_eastern
-Quick Zürich,4.2,40.0,"alkohol, getränke snacks",unknown_other
-Food Paradise,3.4,50.0,"alkohol, getränke snacks",unknown_other
+Quick Zürich,4.2,40.0,"alkohol, getränke snacks",other
+Food Paradise,3.4,50.0,"alkohol, getränke snacks",other
 The Lounge at Park Hyatt Zurich,2.6,20.0,"burger, sandwiches",american
 Cani's Pizza Kurier,4.1,30.0,"italienisch, italienische pizza",european
 Pizzeria Bella Napoli,4.7,35.0,"italienisch, italienische pizza",european
@@ -95,7 +95,7 @@ Just Burger,4.1,35.0,"amerikanisch, burger",american
 Restaurant Pizzeria Monti,4.9,60.0,"italienische pizza, burger",american
 Tamarind Garden,4.5,30.0,"indisch, vegetarisch",asian
 Pimp your Pizza,4.8,20.0,"italienische pizza, amerikanische pizza",european
-baba's döner (vom Holzkohlegrill),4.5,30.0,"kebab, lokale geheimtipps",middle_eastern
+baba's döner (vom Holzkohlegrill),4.5,30.0,kebab,middle_eastern
 MEIXIN,4.1,20.0,"chinesisch, asiatisch",asian
 Pizza Bros Zürich,4.3,80.0,"italienische pizza, kebab",middle_eastern
 Friends Corner,4.6,20.0,"indisch, vegetarisch",asian
@@ -128,13 +128,13 @@ SPAR Supermarkt,3.7,0.0,"frühstück, lebensmittel",grocery_retail
 Piro Langstrasse,1.7,20.0,"italienische pizza, burger",american
 Restaurant Damas Josefstrasse,4.1,20.0,"arabisch, falafel",middle_eastern
 Tenz Momo Lochergut,4.7,20.0,"asiatisch, momos",asian
-Sprit n more 7/24 Shop Tabak,5.0,150.0,"alkohol, getränke snacks",unknown_other
+Sprit n more 7/24 Shop Tabak,5.0,150.0,"alkohol, getränke snacks",other
 Ying Cusine,4.9,20.0,"sushi, japanisch",asian
 S-Family Restaurant,4.7,20.0,"afrikanisch, traditionell",african
 Little Spice Indian Kitchen,4.7,20.0,"indisch, halal, vegan",asian
 Kuku Kitchen,3.0,20.0,"asiatisch, momos",asian
 Delhi House of Best Curry,4.7,40.0,"indisch, halal, vegan",asian
-Winti Sprit,4.8,120.0,"alkohol, getränke snacks",unknown_other
+Winti Sprit,4.8,120.0,"alkohol, getränke snacks",other
 Restaurant Piratino,4.6,50.0,"snacks, italienische pizza",european
 ZFC Zurich Fried Chicken,4.4,40.0,"hühnchen, burger",american
 McDonald's® Zürich Stadelhofen,4.4,20.0,"amerikanisch, burger",american
@@ -143,7 +143,7 @@ LA CASA DE KIOSK,5.0,40.0,"lebensmittel, angebote",grocery_retail
 Ristorante Rosengarten,4.7,100.0,"italienisch, indisch",asian
 Steakhouse Texas Zürich,4.1,20.0,mexikanisch,latin
 Original Kebab Haus,3.8,25.0,"kebab, angebote",middle_eastern
-Restaurant Mesob,4.9,20.0,"afrikanisch, lokale geheimtipps",african
+Restaurant Mesob,4.9,20.0,afrikanisch,african
 Shell mio Shop,4.3,0.0,"frühstück, lebensmittel",grocery_retail
 Flash Bistro Take-Away,4.5,20.0,"italienische pizza, kebab",middle_eastern
 Les delice d'Orient,3.6,20.0,"libanesisch, falafel",middle_eastern
@@ -175,12 +175,12 @@ Polo Take Away,4.3,30.0,persisch,middle_eastern
 Spice Village,4.8,40.0,"indisch, asiatisch",asian
 Libanès Restaurant,4.2,35.0,"libanesisch, arabisch",middle_eastern
 Legend Döner,3.9,30.0,"türkisch, kebab",middle_eastern
-Drink-Taxi.ch,5.0,129.0,"alkohol, getränke snacks",unknown_other
+Drink-Taxi.ch,5.0,129.0,"alkohol, getränke snacks",other
 Passioni Italiane - TC Zollikerberg,4.1,30.0,"italienisch, italienische pizza",european
 Restaurant Altstetten,2.3,30.0,"italienisch, burger",american
 Sushi Palace Rümlang,4.7,50.0,"sushi, asiatisch",asian
 Restaurant Tandoor House,4.7,35.0,"indisch, angebote",asian
-drink-butler.ch,4.3,129.0,"alkohol, getränke snacks",unknown_other
+drink-butler.ch,4.3,129.0,"alkohol, getränke snacks",other
 Cafe Bar Balkan,5.0,35.0,"snacks, burger",american
 McDonald's® Zürich Oerlikon,4.4,30.0,"amerikanisch, burger",american
 BURGER KING ® Oerlikon,4.0,25.0,"amerikanisch, burger",american
@@ -191,6 +191,6 @@ Dunkin' Donuts Bellevue,3.9,20.0,"frühstück, amerikanisch",american
 Big Burger Kurier Zürich,4.5,30.0,"amerikanisch, burger",american
 Burgermeister Oerlikon,4.0,25.0,"amerikanisch, burger",american
 Ristorante Frascati,3.7,20.0,"italienisch, italienische pizza",european
-Zekisworld (Oerlikon),3.9,30.0,"kebab, lokale geheimtipps",middle_eastern
+Zekisworld (Oerlikon),3.9,30.0,kebab,middle_eastern
 Peking Garden,4.5,70.0,"chinesisch, thailändisch",asian
 Tenz Momo Bahnhof Oerlikon,4.5,30.0,"asiatisch, momos",asian
