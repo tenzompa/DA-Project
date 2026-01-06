@@ -1,0 +1,196 @@
+name,rating,minimum_clean,primary_cuisine_group,cuisine_groups
+Happen Afro Restaurant,5.0,20.0,african,african
+Restaurant Mesob,4.9,20.0,african,african
+S-Family Restaurant,4.7,20.0,african,african
+Habesha Restaurant,4.5,20.0,african,african
+Cindys Bistro - Afro Deli,4.3,20.0,african,african
+Taste of Africa,4.3,20.0,african,african
+Cafe Bar Balkan,5.0,35.0,american,american
+Restaurant Pizzeria Monti,4.9,60.0,american,"american, european"
+Kana (fried chicken),4.8,20.0,american,american
+Pimp your Pizza,4.8,20.0,american,"american, european"
+Holy Cow! Gourmet Burger Co. ZÜRICH ZÄHRINGERSTRASSE,4.7,18.0,american,american
+Big Burger Kurier Zürich,4.5,30.0,american,american
+Nelson's Kitchen,4.4,18.0,american,american
+ZFC Zurich Fried Chicken,4.4,40.0,american,american
+McDonald's® Zürich Stadelhofen,4.4,20.0,american,american
+Tayyeb Burger (Zürich),4.4,30.0,american,american
+Burgermeister Enge,4.4,20.0,american,american
+McDonald's® Zürich Oerlikon,4.4,30.0,american,american
+Black Tap Craft Burgers & Beer Zurich,4.3,18.0,american,american
+Action Burger,4.3,18.0,american,american
+Burgermeister Oberdorf,4.3,20.0,american,american
+HUNCHO,4.3,20.0,american,american
+THE SMASH,4.2,20.0,american,american
+Burger & Shakes,4.2,25.0,american,american
+McDonald's® Zürich Löwenstrasse,4.1,18.0,american,american
+SUBWAY Zürich HB,4.1,18.0,american,american
+SAM'S Pizza Land Zürich,4.1,18.0,american,"american, european"
+Just Burger,4.1,35.0,american,american
+SUBWAY Oerlikon,4.1,30.0,american,american
+Miki Burgers,4.0,30.0,american,"american, european"
+BURGER KING ® Europaallee,4.0,18.0,american,american
+BURGER KING ® Oerlikon,4.0,25.0,american,american
+Burgermeister Oerlikon,4.0,25.0,american,american
+BURGER KING ® Zürich Gleis 18,3.9,18.0,american,american
+ZFC Zürich,3.9,40.0,american,american
+Dunkin' Donuts HB,3.9,18.0,american,american
+McDonald's® Zürich Badenerstrasse,3.9,20.0,american,american
+SUBWAY Zürich Langstrasse,3.9,20.0,american,american
+Dunkin' Donuts Bellevue,3.9,20.0,american,american
+Burgermeister Limmatplatz,3.8,20.0,american,american
+BURGER KING ® Zürich Bahnhof,3.7,18.0,american,american
+McDonald's® Zürich Tessinerplatz,3.7,20.0,american,american
+N-68,3.6,18.0,american,"american, european"
+McDonald's® Zürich Langstrasse,3.6,20.0,american,american
+JUST SMASHED© Zürich Wiedikon,3.6,35.0,american,american
+MrBeast Burger© Zürich,3.3,30.0,american,american
+The Lounge at Park Hyatt Zurich,2.6,20.0,american,american
+Restaurant Altstetten,2.3,30.0,american,"american, european"
+Piro Langstrasse,1.7,20.0,american,"american, european"
+Imperial Garden x Nota Sushi,5.0,150.0,asian,asian
+Thali House,4.9,60.0,asian,asian
+Indian Restaurant Kormasutra,4.9,60.0,asian,"asian, dietary_lifestyle"
+Tibetaner MOMO,4.9,30.0,asian,asian
+Ying Cusine,4.9,20.0,asian,asian
+Thali Indian Restaurant,4.8,60.0,asian,asian
+Spice Village,4.8,40.0,asian,asian
+Dont Worry Eat Curry,4.7,20.0,asian,"asian, dietary_lifestyle"
+Cô Ba Canteen,4.7,20.0,asian,asian
+Fulin Asia Kitchen,4.7,25.0,asian,asian
+Hang's Vietnamese Cuisine,4.7,20.0,asian,asian
+Tenz Momo Lochergut,4.7,20.0,asian,asian
+Little Spice Indian Kitchen,4.7,20.0,asian,"asian, dietary_lifestyle"
+Delhi House of Best Curry,4.7,40.0,asian,"asian, dietary_lifestyle"
+Ristorante Rosengarten,4.7,100.0,asian,"asian, european"
+SOD Restaurant,4.7,25.0,asian,asian
+Sushi Palace Rümlang,4.7,50.0,asian,asian
+Restaurant Tandoor House,4.7,35.0,asian,asian
+Restaurant Vulkan,4.6,18.0,asian,asian
+Friends Corner,4.6,20.0,asian,"asian, dietary_lifestyle"
+Xi Muoi - Viet Nam Restaurant,4.6,20.0,asian,asian
+Crown of India Restaurant,4.6,80.0,asian,asian
+Lamky,4.6,30.0,asian,asian
+Haru Korean,4.5,18.0,asian,asian
+Tadka Indisches Restaurant,4.5,20.0,asian,asian
+Peking Garden Langstrasse,4.5,20.0,asian,asian
+Tamarind Garden,4.5,30.0,asian,"asian, dietary_lifestyle"
+Tamarind Hill Oerlikon,4.5,25.0,asian,"asian, dietary_lifestyle"
+Peking Garden,4.5,70.0,asian,asian
+Tenz Momo Bahnhof Oerlikon,4.5,30.0,asian,asian
+Saravanaa Bhavan Zurich,4.4,18.0,asian,"asian, dietary_lifestyle"
+Só Tea,4.4,20.0,asian,"asian, desserts"
+Nep Asian Kitchen,4.4,18.0,asian,asian
+Style Thai,4.4,18.0,asian,asian
+Wesley's Kitchen HB,4.4,18.0,asian,asian
+Phuket,4.4,20.0,asian,asian
+Cima Asia Take Away,4.3,20.0,asian,asian
+Restaurant Indian BBQ,4.3,20.0,asian,asian
+Maneez,4.3,20.0,asian,asian
+Asiaway,4.3,25.0,asian,asian
+Wangkhar Restaurant,4.3,30.0,asian,asian
+Suan Long Zürich-Oerlikon,4.3,30.0,asian,asian
+Zentral Thai Restaurant & Takeaway,4.2,18.0,asian,asian
+Bund 39,4.2,20.0,asian,asian
+Suan Long Seefeld,4.2,20.0,asian,asian
+Restaurant and Takeaway Golden India,4.2,30.0,asian,asian
+Suan Long,4.1,18.0,asian,asian
+MEIXIN,4.1,20.0,asian,asian
+KAIMUG,4.0,18.0,asian,"asian, dietary_lifestyle"
+China Restaurant Chopstick,4.0,18.0,asian,"asian, dietary_lifestyle"
+Konshi - Asia Kitchen & Sushi,4.0,18.0,asian,asian
+Pho 50 Stauffacherstrasse,4.0,20.0,asian,asian
+Sora,3.7,18.0,asian,asian
+House of Momos Enge,3.7,45.0,asian,asian
+House of Momos Binz,3.7,45.0,asian,"asian, dietary_lifestyle"
+Centro Pizza,3.7,50.0,asian,"asian, european"
+LOMO,3.6,40.0,asian,asian
+Delhihouse Bistro,3.3,20.0,asian,asian
+Kuku Kitchen,3.0,20.0,asian,asian
+Sprit n more 7/24 Shop Tabak,5.0,150.0,beverages_snacks,beverages_snacks
+Drink-Taxi.ch,5.0,129.0,beverages_snacks,beverages_snacks
+Winti Sprit,4.8,120.0,beverages_snacks,beverages_snacks
+Khujug Bubble Tea,4.3,20.0,beverages_snacks,beverages_snacks
+drink-butler.ch,4.3,129.0,beverages_snacks,beverages_snacks
+Quick Zürich,4.2,40.0,beverages_snacks,beverages_snacks
+Bierhalle Wolf,4.1,18.0,beverages_snacks,beverages_snacks
+Starbucks Limmatstrasse,3.8,0.0,beverages_snacks,beverages_snacks
+Mighty Bites,3.7,18.0,beverages_snacks,beverages_snacks
+Food Paradise,3.4,50.0,beverages_snacks,beverages_snacks
+Vegitat Cigköfte,4.6,20.0,dietary_lifestyle,dietary_lifestyle
+ONA POKÉ Bleicherweg,3.8,20.0,dietary_lifestyle,dietary_lifestyle
+CORSA,5.0,18.0,european,european
+Janni Pizzakurier Zürich,4.9,20.0,european,european
+Im Guet - Pizza & Pasta Kurier,4.9,60.0,european,european
+Via del gusto 28,4.8,20.0,european,european
+Pizza Casa Original,4.8,25.0,european,european
+Europa Restaurant & Piano Bar,4.8,20.0,european,european
+OH MY GREEK! Zürich Hauptbahnhof,4.7,18.0,european,"dietary_lifestyle, european"
+Burek Bakery Zürich,4.7,30.0,european,european
+Da Pepino Express,4.7,30.0,european,european
+Maadan Bakery,4.7,20.0,european,european
+Pizzeria Bella Napoli,4.7,35.0,european,european
+Spizzati Pizzeria & Piadineria 2,4.6,40.0,european,european
+Restaurant Piratino,4.6,50.0,european,european
+Casa Siciliana,4.6,60.0,european,european
+Spizzati Pizzeria & Piadineria,4.5,30.0,european,european
+Pizza Pizza Kurier,4.4,30.0,european,european
+Just Pizza,4.3,35.0,european,european
+Spaccio - Löwenstrasse,4.3,18.0,european,european
+Pizzeria Molino Stauffacher,4.3,20.0,european,european
+Traum Pizza & Kebab,4.3,25.0,european,european
+Pizzeria La Fammy,4.2,50.0,european,european
+Da Raffaele,4.1,18.0,european,european
+Cani's Pizza Kurier,4.1,30.0,european,european
+Passioni Italiane - TC Zollikerberg,4.1,30.0,european,european
+San Gennaro - Löwenstrasse,4.0,18.0,european,european
+Pizzeria Felice,3.9,55.0,european,european
+Ristorante Pizzeria L'Artista Zürich,3.8,30.0,european,"dietary_lifestyle, european"
+Cucina Niederdorf,3.7,20.0,european,european
+Ristorante Frascati,3.7,20.0,european,european
+Pizzeria Molino Select Limmatquai,3.6,20.0,european,european
+LA CASA DE KIOSK,5.0,40.0,grocery_retail,grocery_retail
+nytstore ZH,5.0,42.0,grocery_retail,grocery_retail
+Liquor House (Zürich),5.0,60.0,grocery_retail,grocery_retail
+Metzgerei Keller,4.9,0.0,grocery_retail,grocery_retail
+LOLIPOP,4.4,0.0,grocery_retail,grocery_retail
+Bäckerei Hug,4.4,0.0,grocery_retail,grocery_retail
+Shell mio Shop,4.3,0.0,grocery_retail,grocery_retail
+SPAR Express,3.8,0.0,grocery_retail,grocery_retail
+SPAR Supermarkt,3.7,0.0,grocery_retail,grocery_retail
+Blume 3000 - Fleurop,3.3,0.0,grocery_retail,grocery_retail
+Tacos Plaza,4.2,20.0,latin,latin
+Steakhouse Texas Zürich,4.1,20.0,latin,latin
+Allegrotto Pizza Kurier,5.0,20.0,middle_eastern,middle_eastern
+Pizza Binz Levante Küche,4.9,50.0,middle_eastern,"european, middle_eastern"
+Pizzakurier Lochergut,4.7,30.0,middle_eastern,"european, middle_eastern"
+Rodi,4.7,30.0,middle_eastern,"european, middle_eastern"
+baba's döner (vom Holzkohlegrill),4.5,30.0,middle_eastern,middle_eastern
+Flash Bistro Take-Away,4.5,20.0,middle_eastern,"european, middle_eastern"
+3 Men's Kebab,4.4,18.0,middle_eastern,middle_eastern
+Neni,4.4,20.0,middle_eastern,middle_eastern
+Bilo Bistro,4.4,20.0,middle_eastern,"european, middle_eastern"
+Toros Imbiss,4.4,25.0,middle_eastern,"european, middle_eastern"
+Pizza Bros Zürich,4.3,80.0,middle_eastern,"european, middle_eastern"
+Restaurant & Cafe Schmiede,4.3,20.0,middle_eastern,middle_eastern
+Amaras Restaurant,4.3,80.0,middle_eastern,"european, middle_eastern"
+Hallo Beirut,4.3,25.0,middle_eastern,middle_eastern
+Chi Chest,4.3,25.0,middle_eastern,middle_eastern
+Polo Take Away,4.3,30.0,middle_eastern,middle_eastern
+Cravings Supermarket & Food,4.3,0.0,middle_eastern,"american, middle_eastern"
+Restaurant Damas Wipkingen,4.2,20.0,middle_eastern,middle_eastern
+Bebo's Beef & Chicken,4.2,20.0,middle_eastern,middle_eastern
+Libanès Restaurant,4.2,35.0,middle_eastern,middle_eastern
+Restaurant 1001,4.1,18.0,middle_eastern,middle_eastern
+Restaurant Damas Josefstrasse,4.1,20.0,middle_eastern,middle_eastern
+mit&ohne kebab - HB,4.0,15.0,middle_eastern,middle_eastern
+Sesam Falafel,3.9,18.0,middle_eastern,middle_eastern
+Zekisworld (Limmatplatz),3.9,20.0,middle_eastern,middle_eastern
+Kiosk Kalkbreite & Takeaway,3.9,20.0,middle_eastern,"european, middle_eastern"
+Legend Döner,3.9,30.0,middle_eastern,middle_eastern
+Zekisworld (Oerlikon),3.9,30.0,middle_eastern,middle_eastern
+Original Kebab Haus,3.8,25.0,middle_eastern,middle_eastern
+Muset Restaurant (Halalfood),3.7,30.0,middle_eastern,"dietary_lifestyle, european, middle_eastern"
+Les delice d'Orient,3.6,20.0,middle_eastern,middle_eastern
+Food Corner Niederdorf,3.0,18.0,middle_eastern,"american, middle_eastern"
+HappyPockets© Zürich,3.8,30.0,unknown_other,
