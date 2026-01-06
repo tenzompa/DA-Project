@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_93f626f3dfcf59b15d26048f561b1025 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_93f626f3dfcf59b15d26048f561b1025" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_93f626f3dfcf59b15d26048f561b1025 = L.map(
+                "map_93f626f3dfcf59b15d26048f561b1025",
+                {
+                    center: [47.3769, 8.5417],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_25f32ff2310b60c840a0057ea2b770fc = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_25f32ff2310b60c840a0057ea2b770fc.addTo(map_93f626f3dfcf59b15d26048f561b1025);
+        
+    
+            var marker_9d4d41631548ab228e0ce6f0e63ed7f1 = L.marker(
+                [47.3769, 8.5417],
+                {
+}
+            ).addTo(map_93f626f3dfcf59b15d26048f561b1025);
+        
+    
+            var icon_444125d198275164a3d0794f35930a07 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_05b821090209aa0c0b66cf1129022694 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c54f99794222f31d37bcdf2678819445 = $(`<div id="html_c54f99794222f31d37bcdf2678819445" style="width: 100.0%; height: 100.0%;">Zurich – Study Area</div>`)[0];
+                popup_05b821090209aa0c0b66cf1129022694.setContent(html_c54f99794222f31d37bcdf2678819445);
+            
+        
+
+        marker_9d4d41631548ab228e0ce6f0e63ed7f1.bindPopup(popup_05b821090209aa0c0b66cf1129022694)
+        ;
+
+        
+    
+    
+                marker_9d4d41631548ab228e0ce6f0e63ed7f1.setIcon(icon_444125d198275164a3d0794f35930a07);
+            
+    
+            var rectangle_25fcb1346e63a8793c75f2c90cf70577 = L.rectangle(
+                [[47.32, 8.45], [47.45, 8.65]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.15, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_93f626f3dfcf59b15d26048f561b1025);
+        
+    
+            rectangle_25fcb1346e63a8793c75f2c90cf70577.bindTooltip(
+                `<div>
+                     City of Zurich (study area)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
